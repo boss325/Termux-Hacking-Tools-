@@ -1,0 +1,6 @@
+ShellPhish Tool Install In Termux
+
+$ git clone https://github.com/thelinuxchoice/shellphish
+$ cd shellphish 
+$ ls
+$ bash shellphish.sh
